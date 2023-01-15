@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_practice_4/static/css/main.74289dd7.css",
+    "main.js": "/react_practice_4/static/js/main.aac9fc90.js",
+    "static/media/meals.jpg": "/react_practice_4/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/react_practice_4/index.html",
+    "main.74289dd7.css.map": "/react_practice_4/static/css/main.74289dd7.css.map",
+    "main.aac9fc90.js.map": "/react_practice_4/static/js/main.aac9fc90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74289dd7.css",
+    "static/js/main.aac9fc90.js"
+  ]
+}
